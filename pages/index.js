@@ -38,15 +38,7 @@ export default function Home() {
 
   return (
     <>
-      <div style={{ height: "100vh" }}>
-        <Spline
-          scene="https://prod.spline.design/MawWx08O4rbcBn7y/scene.splinecode"
-          onLoad={onLoad}
-        />
-      </div>
-      <h1>Hello</h1>
-
-      <Spline scene="https://prod.spline.design/VUdNthwszupVlMzQ/scene.splinecode" />
+      
     </>
   );
 }
